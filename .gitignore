@@ -1,2 +1,6 @@
 data/
 video/
+*.mat
+*.avi
+*.png
+*.asv
